@@ -33,7 +33,7 @@ class ViewController: NSViewController {
     }
     
     func generateMath() {
-        
+        // add some comment
         let pageCount:Int = 10
         let mathNumber:Int = 100 * pageCount
         
